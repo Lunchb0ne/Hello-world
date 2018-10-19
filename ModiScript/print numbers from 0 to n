@@ -1,0 +1,15 @@
+//Printing numbers from 0 to n, which is enetered from the user
+Mitrooon
+bhaiyo aur behno "ek nambar do"
+//Input a number
+mann ki baat n
+//set counter to 0
+counter 0 hai
+//Due to the way loops exist in this esolang, loop runs till the given condition is true, instead of the other way around
+jab tak counter n se zyada{
+  //output the variable "counter"
+  bhaiyo aur behno counter
+  }
+//Show that the loop has ended
+bhaiyo aur behno "n tak nambars print ho gaye"
+Achhe din aa gaye
